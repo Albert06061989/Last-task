@@ -10,4 +10,4 @@
 
 И все круто!!!
 
-![my photo](Безымянный.jpg)
+![Безымянный](https://user-images.githubusercontent.com/123657028/218813125-e518be20-8efd-4f86-9cd6-a63c8f9c2b3c.jpg)
